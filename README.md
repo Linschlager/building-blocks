@@ -1,2 +1,2 @@
-# building-blocks
+# buliding-blocks
 Created with CodeSandbox
